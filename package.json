@@ -1,5 +1,8 @@
 {
   "name": "orgo",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "yarn": "1.17.3"
+  }
 }
