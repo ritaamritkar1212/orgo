@@ -4,5 +4,9 @@
   "dependencies": {},
   "engines": {
     "yarn": "1.17.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-dev-server": "^3.8.0"
   }
 }
