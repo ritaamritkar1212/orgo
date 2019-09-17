@@ -13,7 +13,8 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
-//= require bootstrap
+//= require tether
+//= require bootstrap-sprockets
 //= require_tree .
 var slideIndex = 0;
 carousel();
